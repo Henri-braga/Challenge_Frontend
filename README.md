@@ -18,7 +18,7 @@ yarn start ou npm run start
 yarn test ou npm run test
 ```
 
-### Para se logar na aplição utilize os dados de admin:
+### Para se logar na aplicação utilize os dados de admin:
 
 ##### Email: admin@admin.com
 
