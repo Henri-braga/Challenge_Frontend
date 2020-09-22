@@ -27,10 +27,6 @@ const DragonsList = () => {
       name,
       type,
     });
-
-    if (newDragon.request.status === 201) {
-      window.location.reload();
-    }
   };
 
   return (
