@@ -3,7 +3,7 @@
 ### Comando para baixar as dependências:
 
 ```
-yarn  ou npm i
+yarn ou npm i
 ```
 
 ### Comando para executar a aplicação:
